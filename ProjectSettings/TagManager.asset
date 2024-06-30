@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - LoadObject
+  - EnemyTagA
+  - Events
+  - EnemyTagB
+  - FxTemporaire
+  - Bunny
+  - Bat
+  - Dog
+  - Opossum
+  - AttackCollider
+  - Dino
+  - Fire
+  - NDEventTag1-A
+  - TDEventTag1-A
+  - Bear
+  - Pig
+  - PlayerAttack
+  - Vulture
+  - PainObjects
+  - BreakGround
+  - TDEventTag1-B
+  - FireTarget
+  - NDEvent_Boss_Front
+  - NDEventTag1-B
+  - BreakObject
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - PEGround_BHaikei
+  - Water
+  - UI
+  - Priority
+  - Boss
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Character
+    uniqueID: 465235793
+    locked: 0
